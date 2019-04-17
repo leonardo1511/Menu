@@ -1,7 +1,6 @@
-<channel>
-<name>[COLOR white][B]FILMES - ANOS 80[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/CiDu6rc.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/leonardo1511/Menu/master/Filmes80</externallink>
-<fanart></fanart>
-<info>[COLOR chocolate][B]Para poder assistir só basta instalar o addon Gdrive no seu kodi![/B][/COLOR]</info>
-</channel>
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yaspejv2" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Pânico – 1996
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SXoQxFw9F4j_sdkHz6WMHtkrGaoJewUr/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybxoxzmm" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Pânico 2 – 1997
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Z-YUWtnI2DvTCGWC8GINEcZEkwfBukAR/view
