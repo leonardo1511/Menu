@@ -2,7 +2,7 @@
 <layouttype>thumbnail</layouttype>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]Menu[/COLOR][/B]</name>
+title>[COLOR white][B]Filmes[/B][/COLOR]</title>
 <thumbnail>https://i.imgur.com/E70Pxyg.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/leonardo1511/Menu/master/anos80</externallink>
 <fanart>https://i.imgur.com/tqdUk91.jpg</fanart>
