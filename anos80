@@ -1,4 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y3yldfxs" group-title="anos80" pltv-subgroup="anos80",Na linha de Fogo
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y3yldfxs" group-title="anos80" pltv-subgroup="anos80",Na linha de Fogo - 1993
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iFOlCvKqIrllp9-GeXtpTvA9Eum6hpWP/view
+
