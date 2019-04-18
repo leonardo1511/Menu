@@ -1,9 +1,4 @@
 #EXTM3U
 
-<title>[COLOR white][B]Na Linha de Fogo[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iFOlCvKqIrllp9-GeXtpTvA9Eum6hpWP/view</link>
-<thumbnail>https://4.bp.blogspot.com/-C0zjGOCIcT8/XLPQBcLCH-I/AAAAAAAAEmk/re2-U2JiJ9MrGurwYV8j2GTJcoIG7mo2gCLcBGAs/s1600/na-linha-de-fogo_t5449_3.jpg</thumbnail>
-<fanart></fanart>
-<info>Um agente do Serviço Secreto é atormentado por ligações de um assassino que tem informações detalhadas sobre ele, incluindo o fato de que ele não conseguiu salvar o presidente John F. Kennedy de ser assassinado. O assassino se revela como um ex-agente da CIA e o agente do Serviço Secreto que está investigando uma ameaça ao atual presidente está determinado a não deixar a história se repita.</info>
-</item>
-
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y3yldfxs" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Na linha de Fogo
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iFOlCvKqIrllp9-GeXtpTvA9Eum6hpWP/view
