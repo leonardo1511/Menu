@@ -1,6 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yaspejv2" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Pânico – 1996
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SXoQxFw9F4j_sdkHz6WMHtkrGaoJewUr/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y3yldfxs" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Na Linha De Fogo – 1993
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iFOlCvKqIrllp9-GeXtpTvA9Eum6hpWP/view
+<info>Um agente do Serviço Secreto é atormentado por ligações de um assassino que tem informações detalhadas sobre ele, incluindo o fato de que ele não conseguiu salvar o presidente John F. Kennedy de ser assassinado. O assassino se revela como um ex-agente da CIA e o agente do Serviço Secreto que está investigando uma ameaça ao atual presidente está determinado a não deixar a história se repita.                 </info>
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ybxoxzmm" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Pânico 2 – 1997
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Z-YUWtnI2DvTCGWC8GINEcZEkwfBukAR/view
