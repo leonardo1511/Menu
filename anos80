@@ -1,5 +1,33 @@
-#EXTM3U
+ <?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+   <results>
+       <entity>
+           <title>Na linha de Fogo</title>
+           <url>https://drive.google.com/file/d/1iFOlCvKqIrllp9-GeXtpTvA9Eum6hpWP/view </url>
+       </entity>
+       <entity>
+           <title></title>
+           <url></url>
+       </entity>
+   </results>
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y3yldfxs" group-title="anos80" pltv-subgroup="anos80",Na linha de Fogo - 1993
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iFOlCvKqIrllp9-GeXtpTvA9Eum6hpWP/view
 
+<details>
+       <title></title>
+       <year></year>
+       <director></director>
+       <top250></top250>
+       <mpaa></mpaa>
+       <tagline></tagline>
+       <runtime></runtime>
+       <thumb></thumb>
+       <credits></credits>
+       <rating></rating>
+       <votes></votes>
+       <genre></genre>
+       <actor>
+           <name></name>
+           <role></role>
+       </actor>
+       <outline></outline>
+       <plot></plot>
+   </details>
