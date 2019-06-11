@@ -1,2 +1,9 @@
-	<h3>Alguns instrumentos de metal</h3>
+<movies>
+    <movie id="1">
+        <title>Harry Putter</title>
+        <year>2005</year>
+        <actors>
+            <actor>1</actor>
+        </actors>
+    </movie>
 
