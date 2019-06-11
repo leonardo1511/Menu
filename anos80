@@ -1,33 +1,14 @@
- <?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
-   <results>
-       <entity>
-           <title>Na linha de Fogo</title>
-           <url>https://drive.google.com/file/d/1iFOlCvKqIrllp9-GeXtpTvA9Eum6hpWP/view </url>
-       </entity>
-       <entity>
-           <title></title>
-           <url></url>
-       </entity>
-   </results>
+{'Animals': [{'name': 'Crab',
+                       'thumb': 'http://www.vidsplay.com/vids/crab.jpg',
+                       'video': 'http://www.vidsplay.com/vids/crab.mp4',
+                       'genre': 'Animals'},
+                      {'name': 'Alligator',
+                       'thumb': 'http://www.vidsplay.com/vids/alligator.jpg',
+                       'video': 'http://www.vidsplay.com/vids/alligator.mp4',
+                       'genre': 'Animals'},
+                      {'name': 'Turtle',
+                       'thumb': 'http://www.vidsplay.com/vids/turtle.jpg',
+                       'video': 'http://www.vidsplay.com/vids/turtle.mp4',
+                       'genre': 'Animals'}
 
 
-<details>
-       <title></title>
-       <year></year>
-       <director></director>
-       <top250></top250>
-       <mpaa></mpaa>
-       <tagline></tagline>
-       <runtime></runtime>
-       <thumb></thumb>
-       <credits></credits>
-       <rating></rating>
-       <votes></votes>
-       <genre></genre>
-       <actor>
-           <name></name>
-           <role></role>
-       </actor>
-       <outline></outline>
-       <plot></plot>
-   </details>
