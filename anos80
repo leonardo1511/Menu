@@ -1,14 +1,2 @@
-{'Animals': [{'name': 'Crab',
-                       'thumb': 'http://www.vidsplay.com/vids/crab.jpg',
-                       'video': 'http://www.vidsplay.com/vids/crab.mp4',
-                       'genre': 'Animals'},
-                      {'name': 'Alligator',
-                       'thumb': 'http://www.vidsplay.com/vids/alligator.jpg',
-                       'video': 'http://www.vidsplay.com/vids/alligator.mp4',
-                       'genre': 'Animals'},
-                      {'name': 'Turtle',
-                       'thumb': 'http://www.vidsplay.com/vids/turtle.jpg',
-                       'video': 'http://www.vidsplay.com/vids/turtle.mp4',
-                       'genre': 'Animals'}
-
+	<h3>Alguns instrumentos de metal</h3>
 
